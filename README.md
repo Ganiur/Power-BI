@@ -1,7 +1,7 @@
 # Power-BI
 
 
-## Ganiu Ventures Report
+## Ganiq Ventures Report
 
 <img width="488" alt="Ganiq Report" src="https://user-images.githubusercontent.com/121463568/209586516-9b182eb3-d7fd-44c7-8ce2-1571da14d4c3.png">
 
